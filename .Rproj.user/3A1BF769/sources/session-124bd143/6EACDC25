@@ -1,0 +1,27 @@
+{
+    "id": "6EACDC25",
+    "path": "C:/Dashboards/R-Lectures/R Lecture-1/Foundations/Session-1.R",
+    "project_path": "Session-1.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1706410488212.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "27,0",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1706412295,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1706412295914,
+    "read_only": false,
+    "read_only_alternatives": []
+}
